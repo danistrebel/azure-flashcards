@@ -1,0 +1,240 @@
+Intelligent, serverless bot service that scales on demand	Azure Bot Service
+Fast, easy, and collaborative Apache Spark-based analytics platform	Azure Databricks
+Fully-managed search-as-a-service	Azure Search
+Give your app intelligent autosuggest options for searches	Bing Autosuggest
+An easy-to-use, ad-free, commercial-grade search tool that lets you deliver the results you want	Bing Custom Search
+Enrich your experiences by identifying and augmenting entity information from the web	Bing Entity Search
+Search for images and get comprehensive results	Bing Image Search
+Search for news and get comprehensive results	Bing News Search
+Detect and correct spelling mistakes in your app	Bing Spell Check
+Search for videos and get comprehensive results	Bing Video Search
+Get rich insights to help build compelling image applications on the device of your choice.	Bing Visual Search
+Get enhanced search details from billions of web documents	Bing Web Search
+Add smart API capabilities to enable contextual interactions	Cognitive Services
+Distill actionable information from images	Computer Vision
+Automated image, text, and video moderation	Content Moderator
+Overcome speech recognition barriers like speaking style, background noise, and vocabulary	Custom Speech
+Easily customize your own state-of-the-art computer vision models for your unique use case	Custom Vision
+Rich pre-configured environment for AI development	Data Science Virtual Machines
+Detect, identify, analyze, organize, and tag faces in photos	Face
+Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management	Azure Machine Learning service
+Easily build, deploy, and manage predictive analytics solutions	Machine Learning Studio
+Power genome sequencing & research insights	Microsoft Genomics
+Easily conduct real-time speech translation with a simple REST API call	Translator Speech
+Teach your apps to understand commands from your users	Language Understanding
+Simplify complex language concepts and parse text with the Linguistic Analysis API	Linguistic Analysis
+The AI-powered document extraction service that understands your forms	Form Recognizer
+An AI service that recognizes digital ink content, such as handwriting, shapes, and ink document layout	Ink Recognizer
+An AI service that delivers a personalized user experience	Personalizer
+Distill information into conversational, easy-to-navigate answers	QnA Maker
+Use speech to identify and verify individual speakers	Speaker Recognition
+Easily integrate real-time speech translation to your app	Speech Translation
+The Speech to Text API is part of Azure Cognitive Services Speech Services	Speech to Text
+Easily evaluate sentiment and topics to understand what users want	Text Analytics
+Convert text to speech to create more natural, accessible interfaces	Text to Speech
+Easily conduct machine translation with a simple REST API call	Translator Text
+Unlock video insights	Video Indexer
+Build computer vision and speech models using a developer kit with advanced AI sensors	Kinect DK
+Easily add anomaly detection capabilities to your apps.	Anomaly Detector
+Cloud platform to host and share curated open datasets to accelerate development of machine learning models	Azure Open Datasets
+Fast, easy, and collaborative Apache Spark-based analytics platform	Azure Databricks
+Real-time data stream processing from millions of IoT devices	Azure Stream Analytics
+Elastic data warehouse as a service with enterprise-class features	SQL Data Warehouse
+Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters	HDInsight
+Hybrid data integration at enterprise scale, made easy	Data Factory
+Distributed analytics service that makes big data easy	Data Lake Analytics
+Receive telemetry from millions of devices	Event Hubs
+Embed fully interactive, stunning data visualizations in your applications	Power BI Embedded
+Enterprise-grade analytics engine as a service	Azure Analysis Services
+Predictive analytics, machine learning, and statistical modeling for big data	R Server for HDInsight
+Get more value from your enterprise data assets	Data Catalog
+Massively scalable, secure data lake functionality built on Azure Blob Storage	Azure Data Lake Storage
+Fast and highly scalable data exploration service	Azure Data Explorer
+Build, govern, and expand consortium blockchain networks	Azure Blockchain Service
+Easily prototype blockchain apps in the cloud	Azure Blockchain Workbench
+Automate the access and use of data across clouds without writing code	Logic Apps
+Globally distributed, multi-model database for any scale	Azure Cosmos DB
+Provision Windows and Linux virtual machines in seconds	Virtual Machines
+Simplify the deployment, management, and operations of Kubernetes	Azure Kubernetes Service (AKS)
+Develop microservices and orchestrate containers on Windows or Linux	Service Fabric
+Quickly create powerful cloud apps for web and mobile	App Service
+Easily run containers on Azure without managing servers	Container Instances
+Cloud-scale job scheduling and compute management	Batch
+Host enterprise SQL Server apps in the cloud	SQL Server on Virtual Machines
+Create highly-available, infinitely-scalable cloud applications and APIs	Cloud Services
+Run the largest SAP HANA workloads of any hyperscale cloud provider	SAP HANA on Azure Large Instances
+Process events with serverless code	Azure Functions
+Manage and scale up to thousands of Linux and Windows virtual machines	Virtual Machine Scale Sets
+Quickly create and deploy mission critical web apps at scale	Web Apps
+Build and host the backend for any mobile app	Mobile Apps
+Easily build and consume Cloud APIs	API Apps
+Provision virtual machines for Ubuntu, Red Hat, and more	Linux Virtual Machines
+Deliver a virtual desktop experience to any device at cloud scale	Windows Virtual Desktop
+Create, manage, operate, and optimize HPC and big compute clusters of any scale	Azure CycleCloud
+Run your VMware workloads natively on Azure	Azure VMware Solution by CloudSimple
+Simplify the deployment, management, and operations of Kubernetes	Azure Kubernetes Service (AKS)
+Develop microservices and orchestrate containers on Windows or Linux	Service Fabric
+Easily run containers on Azure without managing servers	Container Instances
+Process events with serverless code	Azure Functions
+Store and manage container images across all types of Azure deployments	Container Registry
+Quickly create and deploy mission critical web apps at scale	Web Apps
+Build and host the backend for any mobile app	Mobile Apps
+Easily build and consume Cloud APIs	API Apps
+Easily deploy and run containerized web apps that scale with your business	Web App for Containers
+Fully managed OpenShift service, jointly operated with Red Hat	Azure Red Hat OpenShift
+Host enterprise SQL Server apps in the cloud	SQL Server on Virtual Machines
+Managed relational SQL Database as a service	Azure SQL Database
+Globally distributed, multi-model database for any scale	Azure Cosmos DB
+Elastic data warehouse as a service with enterprise-class features	SQL Data Warehouse
+Hybrid data integration at enterprise scale, made easy	Data Factory
+Power applications with high-throughput, low-latency data access	Azure Cache for Redis
+Dynamically stretch on-premises SQL Server databases to Azure	SQL Server Stretch Database
+NoSQL key-value store using semi-structured datasets	Table Storage
+Managed PostgreSQL database service for app developers	Azure Database for PostgreSQL
+Managed MariaDB database service for app developers	Azure Database for MariaDB
+Managed MySQL database service for app developers	Azure Database for MySQL
+Simplify on-premises database migration to the cloud	Azure Database Migration Service
+Small-footprint, edge-optimized data engine with built-in AI	Azure SQL Database Edge
+The powerful and flexible environment for developing applications in the cloud	Visual Studio
+A powerful, lightweight code editor for cloud development	Visual Studio Code
+Get the SDKs and command-line tools you need	SDKs
+Services for teams to share code, track work, and ship software	Azure DevOps
+Build, deploy, diagnose, and manage multi-platform, scalable apps and services	CLIs
+Continuously build, test, and deploy to any platform and cloud	Azure Pipelines
+Set up labs for classrooms, trials, development and testing, and other scenarios	Azure Lab Services
+Quickly create environments using reusable templates and artifacts	Azure DevTest Labs
+Use the development tools you know—including Eclipse, IntelliJ, and Maven—with Azure	Developer tool integrations
+Fast, scalable parameter storage for app configuration	App Configuration
+Services for teams to share code, track work, and ship software	Azure DevOps
+Continuously build, test, and deploy to any platform and cloud	Azure Pipelines
+Plan, track, and discuss work across your teams	Azure Boards
+Get unlimited, cloud-hosted private Git repos for your project	Azure Repos
+Create, host, and share packages with your team	Azure Artifacts
+Test and ship with confidence with a manual and exploratory testing toolkit	Azure Test Plans
+Quickly create environments using reusable templates and artifacts	Azure DevTest Labs
+Use your favorite DevOps tools with Azure	DevOps tool integrations
+Full observability into your applications, infrastructure, and network	Azure Monitor
+Synchronize on-premises directories and enable single sign-on	Azure Active Directory
+Better protect your sensitive information—anytime, anywhere	Azure Information Protection
+Join Azure virtual machines to a domain without domain controllers	Azure Active Directory Domain Services
+Consumer identity and access management in the cloud	Azure Active Directory B2C
+Get reliable event delivery at massive scale	Event Grid
+Automate the access and use of data across clouds without writing code	Logic Apps
+Publish APIs to developers, partners, and employees securely and at scale	API Management
+Connect across private and public cloud environments	Service Bus
+Connect, monitor and manage billions of IoT assets	Azure IoT Hub
+Extend cloud intelligence and analytics to edge devices	Azure IoT Edge
+Experience the simplicity of SaaS for IoT, with no cloud expertise required	Azure IoT Central
+Create fully customizable solutions with templates for common IoT scenarios	Azure IoT solution accelerators
+Securely connect MCU-powered devices from the silicon to the cloud	Azure Sphere
+Explore and analyze time-series data from IoT devices	Azure Time Series Insights
+Simple and secure location APIs provide geospatial context to data	Azure Maps
+Process events with serverless code	Azure Functions
+Get reliable event delivery at massive scale	Event Grid
+Long-term OS support and services to manage device updates and assess device health	Windows 10 IoT Core Services
+Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management	Azure Machine Learning service
+Easily build, deploy, and manage predictive analytics solutions	Machine Learning Studio
+Real-time data stream processing from millions of IoT devices	Azure Stream Analytics
+Automate the access and use of data across clouds without writing code	Logic Apps
+Send push notifications to any platform from any back end	Notification Hubs
+Globally distributed, multi-model database for any scale	Azure Cosmos DB
+Publish APIs to developers, partners, and employees securely and at scale	API Management
+Build next-generation IoT spatial intelligence solutions	Digital Twins
+Build computer vision and speech models using a developer kit with advanced AI sensors	Kinect DK
+Small-footprint, edge-optimized data engine with built-in AI	Azure SQL Database Edge
+Simplify data protection and protect against ransomware	Azure Backup
+Keep your business running with built-in disaster recovery service	Azure Site Recovery
+Your personalized Azure best practices recommendation engine	Azure Advisor
+Run your jobs on simple or complex recurring schedules	Scheduler
+Simplify cloud management with process automation	Automation
+Route incoming traffic for high performance and availability	Traffic Manager
+Full observability into your applications, infrastructure, and network	Azure Monitor
+Network performance monitoring and diagnostics solution	Network Watcher
+Personalized guidance and support for when issues in Azure services affect you	Azure Service Health
+Build, manage, and monitor all Azure products in a single, unified console	Microsoft Azure portal
+Simplify how you manage your app resources	Azure Resource Manager
+Streamline Azure administration with a browser-based shell	Cloud Shell
+Stay connected to your Azure resources—anytime, anywhere	Azure Mobile App
+Implement corporate governance and standards at scale for Azure resources	Azure Policy
+Optimize what you spend on the cloud, while maximizing cloud potential	Cost Management
+Simplify management of cloud offerings	Azure Managed Applications
+Easily discover, assess, right-size, and migrate your on-premises VMs to Azure	Azure Migrate
+Enabling quick, repeatable creation of governed environments	Azure Blueprints
+Ensure secure, reliable content delivery with broad global reach	Content Delivery Network
+Encode, store, and stream video and audio at scale	Media Services
+Studio grade encoding at cloud scale	Encoding
+Deliver content to virtually all devices with scale to meet business needs	Live and On-Demand Streaming
+A single player for all your playback needs	Azure Media Player
+Securely deliver content using AES, PlayReady, Widevine, and Fairplay	Content Protection
+Uncover insights from video files with speech and vision services	Media Analytics
+Unlock video insights	Video Indexer
+Unlock innovation with hybrid cloud applications	Azure Stack
+Keep your business running with built-in disaster recovery service	Azure Site Recovery
+Optimize what you spend on the cloud, while maximizing cloud potential	Cost Management
+Simplify on-premises database migration to the cloud	Azure Database Migration Service
+Easily discover, assess, right-size, and migrate your on-premises VMs to Azure	Azure Migrate
+Appliances and solutions for data transfer to Azure and edge compute	Data Box
+Build next-generation IoT spatial intelligence solutions	Digital Twins
+Create multi-user, spatially aware mixed reality experiences	Spatial Anchors
+Build computer vision and speech models using a developer kit with advanced AI sensors	Kinect DK
+Render high-quality, interactive 3D content, and stream it to your devices in real time	Remote Rendering
+Quickly create powerful cloud apps for web and mobile	App Service
+Simple and secure location APIs provide geospatial context to data	Azure Maps
+Send push notifications to any platform from any back end	Notification Hubs
+Publish APIs to developers, partners, and employees securely and at scale	API Management
+Quickly create and deploy mission critical web apps at scale	Web Apps
+Build and host the backend for any mobile app	Mobile Apps
+Easily build and consume Cloud APIs	API Apps
+Stay connected to your Azure resources—anytime, anywhere	Azure Mobile App
+Continuously build, test, release, and monitor your apps	Visual Studio App Center
+Create cloud-powered mobile apps faster	Xamarin
+Easily deploy and run containerized web apps that scale with your business	Web App for Containers
+Ensure secure, reliable content delivery with broad global reach	Content Delivery Network
+Dedicated private network fiber connections to Azure	ExpressRoute
+Host your DNS domain in Azure	Azure DNS
+Provision private networks, optionally connect to on-premises datacenters	Virtual Network
+Route incoming traffic for high performance and availability	Traffic Manager
+Deliver high availability and network performance to your applications	Load Balancer
+Establish secure, cross-premises connectivity	VPN Gateway
+Build secure, scalable, and highly available web front ends in Azure	Application Gateway
+Protect your applications from Distributed Denial of Service (DDoS) attacks	Azure DDoS Protection
+Network performance monitoring and diagnostics solution	Network Watcher
+Native firewalling capabilities with built-in high availability, unrestricted cloud scalability, and zero maintenance	Azure Firewall
+Optimize and automate branch to branch connectivity through Azure	Virtual WAN
+Scalable, security-enhanced delivery point for global, microservice-based web applications	Azure Front Door Service
+Synchronize on-premises directories and enable single sign-on	Azure Active Directory
+Better protect your sensitive information—anytime, anywhere	Azure Information Protection
+Join Azure virtual machines to a domain without domain controllers	Azure Active Directory Domain Services
+Safeguard and maintain control of keys and other secrets	Key Vault
+Unify security management and enable advanced threat protection across hybrid cloud workloads	Security Center
+Manage hardware security modules that you use in the cloud	Azure Dedicated HSM
+Establish secure, cross-premises connectivity	VPN Gateway
+Build secure, scalable, and highly available web front ends in Azure	Application Gateway
+Protect your applications from Distributed Denial of Service (DDoS) attacks	Azure DDoS Protection
+Standing watch, by your side. Intelligent security analytics for your entire enterprise	Azure Sentinel
+Durable, highly available, and massively scalable cloud storage	Storage Accounts
+Simplify data protection and protect against ransomware	Azure Backup
+Lower costs with an enterprise hybrid cloud storage solution	StorSimple
+Massively scalable, secure data lake functionality built on Azure Blob Storage	Azure Data Lake Storage
+REST-based object storage for unstructured data	Blob Storage
+Persistent, secured disk options supporting virtual machines	Disk Storage
+Persistent, secured disk storage for Azure virtual machines	Managed Disks
+Effectively scale apps according to traffic	Queue Storage
+File shares that use the standard SMB 3.0 protocol	File Storage
+Appliances and solutions for data transfer to Azure and edge compute	Data Box
+Run high-performance, file-based workloads in the cloud	Avere vFXT for Azure
+Hybrid storage optimization solution for HPC environments	Azure FXT Edge Filer
+Industry leading price point for storing rarely accessed data	Archive Storage
+View and interact with Azure Storage resources	Storage Explorer
+Powerful, hybrid network file system (NFS) file shares	Azure NetApp Files
+Quickly create powerful cloud apps for web and mobile	App Service
+Simple and secure location APIs provide geospatial context to data	Azure Maps
+Ensure secure, reliable content delivery with broad global reach	Content Delivery Network
+Fully-managed search-as-a-service	Azure Search
+Send push notifications to any platform from any back end	Notification Hubs
+Publish APIs to developers, partners, and employees securely and at scale	API Management
+Quickly create and deploy mission critical web apps at scale	Web Apps
+Build and host the backend for any mobile app	Mobile Apps
+Easily build and consume Cloud APIs	API Apps
+Easily deploy and run containerized web apps that scale with your business	Web App for Containers
+Add real-time web functionalities easily	Azure SignalR Service
